@@ -1,6 +1,7 @@
 # Python version 3.8.2
 # prawbot.py
 # Author: hkpani
+# Version: 1.0
 # Description: This is a bot that schedules updates to be formatted as discord messages
 # in your guild. The interval, subreddit, and query can be changed with the bot commands
 # As of version 1.0 this bot only supports getting posts in the format title : URL/image 
